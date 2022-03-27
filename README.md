@@ -18,7 +18,7 @@ Projects, Ideas, Blueprints and Previews in LinbuduLab.
 
 ## Ideas & WIP
 
-- Apollo-Server-Midwat v3
+- Apollo-Server-Midway v3
 - Mustard Series
   - Mustard
   - Mustard CLI Builder
@@ -29,14 +29,16 @@ Projects, Ideas, Blueprints and Previews in LinbuduLab.
   - GraphQL Middlewares
 - EasyJson
 - VS Code Extension for Vitest
-- (Private)Veg
+- (Private)Vega
 - (Private)Orion
 - (Private)Lepus
 - (Private)Sirius
 
 ## Previews
 
-## Templates(Starters)
+## Templates & Starters & Examples
 
 - (Recommended)Starter Collections
 - VS Code Extension Starter
+- GraphQL Federation
+- GraphQL Subscription
