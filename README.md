@@ -1,4 +1,5 @@
 # Summary
+
 Projects, Ideas, Blueprints and Previews in LinbuduLab.
 
 > TODO:
@@ -35,10 +36,7 @@ Projects, Ideas, Blueprints and Previews in LinbuduLab.
 
 ## Previews
 
-
-
 ## Templates(Starters)
 
 - (Recommended)Starter Collections
 - VS Code Extension Starter
-
