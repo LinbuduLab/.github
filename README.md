@@ -17,17 +17,15 @@ Projects, Ideas, Blueprints and Previews in LinbuduLab.
 
 ## Ideas & WIP
 
-- (WIP) [Apollo-Server-Midway v3](https://github.com/LinbuduLab/apollo-server-midway-v3)
 - (WIP) Vega
-- Mustard Series
+- (WIP) EasyJson
+- (WIP)Mustard Series
   - Mustard
   - Mustard CLI Builder
-  - Mustard CLI
 - GraphQL Packages
   - Envelop Plugins
   - External GraphQL Components(Scalar, Directives and more)
   - GraphQL Middlewares
-- EasyJson
 - VS Code Extension for Vitest
 - (Private) Orion
 - (Private) Lepus
